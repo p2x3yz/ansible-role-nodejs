@@ -60,7 +60,7 @@ None.
       vars_files:
         - vars/main.yml
       roles:
-        - geerlingguy.nodejs
+        - mikepadge.nodejs
 
 *Inside `vars/main.yml`*:
 
